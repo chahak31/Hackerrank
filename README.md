@@ -1,0 +1,2 @@
+# Hackerrank
+Medium difficulty codes 
